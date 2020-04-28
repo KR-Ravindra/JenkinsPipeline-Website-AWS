@@ -17,7 +17,10 @@ pipeline {
         }
         stage('Website Status'){
             steps{
-                sh 'curl -Is http://jenkinsproj.s3-website.us-east-1.amazonaws.com/ | head -n 1'
+                sh '''
+                    status=$(curl -Is http://jenkinsproj.s3-website.us-east-1.amazonaws.com/ | head -n 1)
+                    echo "$status"
+                '''
             }
         }
     }
