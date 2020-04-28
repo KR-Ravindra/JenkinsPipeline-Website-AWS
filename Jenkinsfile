@@ -15,5 +15,10 @@ pipeline {
                 }
             }
         }
+        stage('Website Status'){
+            steps{
+                sh 'curl http://jenkinsproj.s3-website.us-east-1.amazonaws.com/ -s -f -o /dev/null || echo "Website down."'
+            }
+        }
     }
 }
