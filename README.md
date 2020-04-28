@@ -8,6 +8,7 @@ The following project perfomed on behalf of Cloud DevOps Engineer nanodegree pro
 
 
 > The whole project is displayed here, in a set of screenshots.
+> Note: URLs can be found in the search bar of the browser.
 
 1. Screenshot of the AWS console with the permissions being created.
    
@@ -16,17 +17,17 @@ The following project perfomed on behalf of Cloud DevOps Engineer nanodegree pro
 2. Screenshot showing the unique AWS URL of your EC2 instance.
 
     ![screenshot-02](screenshots/screenshot-02.png)
-> URL can be found in the search bar of the browser.
+
 
 3. Screenshot that includes the unique AWS url (FQDN is used, not the IP).
 
     ![screenshot-03](screenshots/screenshot-03.png)
-> URL can be found in the search bar of the browser.
+
 
 4. Screenshot that includes the unique AWS url, and shows the sidebar with the Blue Ocean link (FQDN is used, not the IP).
    
    ![screenshot-04](screenshots/screenshot-04.png)
-> URL can be found in the search bar of the browser.
+
 
 5. Screenshot that includes the unique AWS url, and shows the GitHub project as a pipeline (FQDN is used, not the IP).
    
