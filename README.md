@@ -1,6 +1,6 @@
 ### Jenkins Pipelines on AWS 
 
-The following project perfomed on behalf of Cloud DevOps Engineer nanodegree programme demonstrates a CI pipeline on Jenkins:
+The following project demonstrates a CI pipeline on Jenkins:
     
 >> [Multibranch-pipeline](#multi-branch-pipeline) | [Jenkinsfile](#contents-of-jenkinsfile)  | [index.html](#contents-of-indexhtml)
 
